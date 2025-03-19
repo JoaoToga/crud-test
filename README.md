@@ -8,7 +8,7 @@
 
 ## COMANDOS PARA EXECUTAR NO TERMINAL
 
-Criar Projeto Laravel *Esse ponto (.) esta sendo dado o comando pra criar ma raiz da pasta*
+Criar Projeto Laravel OBS: ' . ' no final da query esta sendo dado o comando pra criar ma raiz da pasta*
 
     composer create-project laravel/laravel .
 --
